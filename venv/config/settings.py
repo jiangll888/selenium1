@@ -1,0 +1,5 @@
+# URL = "http://www.5itest.cn/register"
+URL = "http://photo.163.com/index.html"
+CHROME_PATH = r"E:\tools\selenium\chromedriver_win32\chromedriver.exe"
+FIREFOX_PATH = r"E:\tools\selenium\geckodriver\geckodriver.exe"
+EDGE_PATH = r"E:\tools\selenium\edge\MicrosoftWebDriver.exe"

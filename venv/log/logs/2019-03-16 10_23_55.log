@@ -1,0 +1,37 @@
+2019-03-16 10:23:55,341 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/url {"url": "http://www.5itest.cn/register", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:11,940 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/url HTTP/1.1" 200 72
+2019-03-16 10:24:11,940 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:11,941 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:11,975 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:11,975 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:12,487 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:12,487 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:12,487 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:12,997 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:12,997 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:12,997 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:13,513 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:13,513 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:13,513 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:14,026 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:14,026 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:14,026 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:14,539 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:14,555 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:14,555 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:15,058 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:15,074 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:15,074 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:15,589 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:15,611 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:15,612 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:16,121 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:16,137 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:16,137 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:16,652 remote_connection.py _request 388  DEBUG --> POST http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/element {"using": "id", "value": "register_email1", "sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:16,668 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "POST /session/c5e0d18ee39342f01d1081038bc3bf7a/element HTTP/1.1" 200 341
+2019-03-16 10:24:16,668 remote_connection.py _request 440  DEBUG --> Finished Request
+2019-03-16 10:24:17,168 test.py tearDown 33  INFO --> ²âÊÔ
+2019-03-16 10:24:17,168 remote_connection.py _request 388  DEBUG --> GET http://127.0.0.1:60250/session/c5e0d18ee39342f01d1081038bc3bf7a/screenshot {"sessionId": "c5e0d18ee39342f01d1081038bc3bf7a"}
+2019-03-16 10:24:17,624 connectionpool.py _make_request 393  DEBUG --> http://127.0.0.1:60250 "GET /session/c5e0d18ee39342f01d1081038bc3bf7a/screenshot HTTP/1.1" 200 104270
+2019-03-16 10:24:17,624 remote_connection.py _request 440  DEBUG --> Finished Request
